@@ -1,1 +1,1 @@
-# Mon-cv
+# Mon-cv"Feudjio Houkeng Arnauld, étudiant en Licence d'Informatique à l'Université de Douala. Compétences en programmation (Python, Java, C++), développement web (HTML, CSS) et bases de données (MySQL). Projets académiques et expérience en travail d'équipe. Langues : Français et Anglais. Intérêts : développement de logiciels, intelligence artificielle et cybersécurité."
